@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AppController.simpleMode(_:):AppController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSApplication.shared.mainWindow?.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.calculate(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "field.stringValue">
+            </PersistentString>
+            <PersistentString
+               value = "String(field.stringValue.prefix(20))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesController.viewDidDisappear():PreferencesController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.calculate():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "operand == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewControllerSimple.addDigit(_:):ViewControllerSimple.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "field">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesController.viewDidAppear():PreferencesController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSApp.appearance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesController.viewDidLoad():PreferencesController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PreferencesController.toggle(_:):PreferencesController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
